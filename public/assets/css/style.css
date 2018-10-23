@@ -3595,7 +3595,8 @@ a#scrollUp:hover {
 }
 
 .hero-slider-item-1 {
-    background-image: url('../img/slider/1.jpg');
+    /*1920 X 830*/
+    background-image: url('../img/slider/running-horse.jpg');
 }
 
 .hero-slider-item-2 {
